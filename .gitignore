@@ -31,3 +31,4 @@ Thumbs.db
 
 # Temporary files
 paper_text.txt
+*.pdf
